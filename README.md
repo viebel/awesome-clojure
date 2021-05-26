@@ -11,6 +11,7 @@
   - [Metabase](https://github.com/metabase/metabase)
   - [Metabase Datomic](https://github.com/lambdaisland/metabase-datomic)
   - [CircleCI](https://circleci.com/)
+  - [Klipse WEB REPL](http://app.klipse.tech/): A Clojure Web REPL
   - [asciinema](https://asciinema.org/)
   - [Avi (vim rewrite)](https://github.com/maitria/avi)
   - [Liquid (Text Editor)](https://github.com/mogenslund/liquid)
@@ -20,6 +21,7 @@
   - [Jepsen](https://github.com/jepsen-io/jepsen)
   - [Braid](https://github.com/braidchat/braid): a team-chat app with a novel UI that leads to better conversations
   - [Atea](https://github.com/pkamenarsky/atea): a minimalistic menu bar time tracker for MacOS
+  - [Klipse](https://github.com/viebel/klipse): a plugin to embed interactive code snippets (Clojure and more...) in a HTML page.
   - [Accelerated Text](https://github.com/tokenmill/accelerated-text): a natural language generation environment (backend: Clojure, frontend: JS)
 - [Languages written with Clojure](#languages-written-with-clojure)
   - [jank](https://github.com/jeaye/jank)
